@@ -10,12 +10,11 @@
     "preview": "astro preview",
     "format": "prettier --write src"
   },
-  "dependencies": {
-  },
   "devDependencies": {
     "@astrojs/check": "^0.9.3",
     "astro": "^4.15.4",
-    "typescript": "^5.6.2",
-    "prettier": "^3.3.3"
+    "dedent": "^1.5.3",
+    "prettier": "^3.3.3",
+    "typescript": "^5.6.2"
   }
 }
